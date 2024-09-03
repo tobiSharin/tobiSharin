@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm a senior full-stack developer 👋</h1>
+<h1 align="center">👋 Hi, I'm a Senior Software Engineer 👋</h1>
 
 <br clear="both">
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 Frontend: Angular, AngularJS, React/React Native, Next.js, Vue.js, Nuxt.js <br>- 👨‍💻 Backend: Express, Django, Laravel, Spring Boot, Flask, FastAPI<br>- 💬 Database: MongoDB, PostgreSQL, Redis, MySQL, GraphQL, BigQuery, Amazon Redshift<br>- 📫 Languages: Rust, Python, Go, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain: Web3.js, Ether.js, Ethereum, Solana, NFT</p>
+<p align="left">- 🔭 Frontend: Angular, AngularJS, React/React Native, Next.js, Vue.js, Nuxt.js <br>- 👨‍💻 Backend: Express, Django, Laravel, Spring Boot, Flask, FastAPI<br>- 💬 Database: MongoDB, PostgreSQL, Redis, MySQL, GraphQL, BigQuery, Amazon Redshift<br>- 📫 Languages: Rust, Python, Go, JavaScript/TypeScript, C/C++, Java, PHP, C#, .NET, VB<br>- 🔥 BlockChain: Web3.js, Ether.js, Ethereum, Solana, NFT</p>
 
 ###
 
